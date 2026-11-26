@@ -12,6 +12,9 @@ EditorBuildSettings:
     path: Assets/Levels Esteban/Level1.unity
     guid: 66828168446c48c458443fdddbf0848c
   - enabled: 1
+    path: Assets/Levels Esteban/Level2.unity
+    guid: 1449cf2ff4c901c4d892f191bdd675f1
+  - enabled: 1
     path: Assets/CorgiEngine/ThirdParty/MoreMountains/MMTools/Tools/MMSceneLoading/LoadingScreens/LoadingScreen.unity
     guid: 888394d52616e5e42b3b54c3f2bbd3eb
   - enabled: 1
